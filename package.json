@@ -1,0 +1,19 @@
+{
+  "name": "back-end-programita",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasGonzalezRighi/Back-end-Programita.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucasGonzalezRighi/Back-end-Programita/issues"
+  },
+  "homepage": "https://github.com/LucasGonzalezRighi/Back-end-Programita#readme",
+  "description": ""
+}
